@@ -1,21 +1,31 @@
-MIT License
+# Dataset License
 
-Copyright (c) 2024 Rayk Kretzschmar
+## Database Contents License (DbCL) v1.0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This dataset is governed by the Database Contents License (DbCL) v1.0. The DbCL covers the contents within this dataset, allowing you to use, share, and modify the data subject to the following terms:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- You may use the contents for any purpose.
+- Attribution to the original source is encouraged but not mandatory.
+- The contents are provided "as is," and the Licensor is not liable for any damages resulting from their use.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+For the full text of the DbCL, please refer to here.
+
+## Contributions
+
+In addition to the original data, this dataset includes contributions made by Rayk Kretzschmar. These contributions are also subject to the DbCL.
+
+## Combined License
+
+This dataset is dual-licensed under both the DbCL and the Creative Commons Attribution-ShareAlike (CC BY-SA) license. By using this dataset, you agree to comply with both licenses.
+
+### Creative Commons Attribution-ShareAlike (CC BY-SA) License
+
+- You are free to:
+  - Share: Copy and redistribute the material in any medium or format.
+  - Adapt: Remix, transform, and build upon the material.
+- Under the following terms:
+  - Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+  - ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+For the full text of the CC BY-SA license, please refer to here.
+https://creativecommons.org/licenses/by-sa/4.0/
