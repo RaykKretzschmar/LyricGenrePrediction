@@ -153,6 +153,10 @@ cython_debug/
 
 *.csv
 
+# Checkpoints and Models
 results/
 runs/
 genre_model/
+
+# MacOS
+.DS_Store
