@@ -19,6 +19,7 @@ Training on Google Colab took about 1h 20min per epoch on their T4 GPU.
 ```
 pip install -r requirements.txt
 ```
+If you want to use a GPU for training you have to use the "PyTorch install for CUDA" command to install the necessary libraries.
 
 3. You'll need an API-Key from [Genius.com](https://docs.genius.com/) to download the lyrics. You can get one by signing up on their website. The API-Key should be stored in a file called `.env` in the root directory of the project like this:
 ```env
