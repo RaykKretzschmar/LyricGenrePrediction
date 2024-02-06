@@ -5,7 +5,7 @@ lyricsgenius
 python-dotenv
 torchtext
 datasets
-torch==2.1
+torch
 seaborn
 evaluate
 accelerate
